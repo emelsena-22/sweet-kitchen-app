@@ -1,0 +1,15 @@
+<resources>
+    <color name="background">#FFF8F5</color>
+    <color name="header">#672A39</color>
+    <color name="primary">#A94F68</color>
+    <color name="title">#843E53</color>
+    <color name="text">#3D2B2B</color>
+    <color name="muted">#777777</color>
+    <color name="card">#FFFFFF</color>
+    <color name="chip">#F8E6EB</color>
+    <color name="match_bg">#E2F5E9</color>
+    <color name="match_text">#287348</color>
+    <color name="missing_bg">#FFF0E8</color>
+    <color name="missing_text">#A3542E</color>
+    <color name="white">#FFFFFF</color>
+</resources>

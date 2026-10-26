@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sweet Kitchen</string>
+    <string name="subtitle">Enter the ingredients you have at home and discover delicious desserts you can make.</string>
+    <string name="search_title">🍓 What\'s in Your Kitchen?</string>
+    <string name="search_hint">Example: eggs, milk, flour, sugar, chocolate…</string>
+    <string name="find_button">🍰 Find My Desserts</string>
+    <string name="clear_button">Clear</string>
+    <string name="only_complete">Show only desserts I can make with the ingredients I already have</string>
+</resources>
